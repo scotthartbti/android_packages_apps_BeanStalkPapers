@@ -18,17 +18,21 @@
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Red Girl</item>
-        <item>Nothing is Real</item>
-        <item>El Goog</item>
-        <item>City Djungle</item>
-        <item>Singing Bird</item>
-        <item>Juggling Monsters</item>
-        <item>Rocket Launcher</item>
-        <item>Pet Sematary</item>
-        <item>Fallen Cookies</item>
+        <item>Default</item>
+        <item>Gray Logo</item>
+        <item>Old Beanstalk</item>
+        <item>Bottom View</item>
+        <item>Beanstalk explosion</item>
+        <item>Design Logo</item>
+        <item>Design Logo 2</item>
+        <item>Design Logo 3</item>
+        <item>B for Beanstalk</item>
+        <item>Beanstalk Green</item>
+        <item>Carton Beanstalk</item>
     </string-array>
 </resources>

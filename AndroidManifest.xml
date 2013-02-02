@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.paranoid.ParanoidWallpapers">
+    package="com.stalk.BeanStalkPapers">
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     

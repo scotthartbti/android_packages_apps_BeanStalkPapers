@@ -10,6 +10,7 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_0</item>
+        <item>wallpaper_21</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_11</item>
@@ -33,6 +34,7 @@
 
     <string-array name="info" translatable="false">
         <item>Default</item>
+        <item>Typography</item>
         <item>Gray Logo</item>
         <item>Old Beanstalk</item>
         <item>Green Tree</item>

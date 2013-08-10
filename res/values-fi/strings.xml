@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeanStalk taustakuvat</string>
+    <string name="set_wallpaper">Aseta taustakuva</string>
+    <string name="no_wallpaper">Ei taustakuvaa</string>
+</resources>

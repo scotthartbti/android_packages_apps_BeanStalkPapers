@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeanStalk 壁紙</string>
+    <string name="set_wallpaper">壁紙に設定</string>
+    <string name="no_wallpaper">壁紙なし</string>
+</resources>

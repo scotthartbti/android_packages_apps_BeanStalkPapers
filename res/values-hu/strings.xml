@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeanStalk Háttérképek</string>
+    <string name="set_wallpaper">Alkalmaz</string>
+    <string name="no_wallpaper">Nincs háttérkép</string>
+</resources>

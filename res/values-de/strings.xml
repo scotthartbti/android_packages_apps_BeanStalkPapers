@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">BeanStalk Wallpapers</string>
-    <string name="set_wallpaper">Set wallpaper</string>
-    <string name="no_wallpaper">No wallpaper</string>
+    <string name="app_name">BeanStalk-Hintergrundbilder</string>
+    <string name="set_wallpaper">Hintergrund festlegen</string>
+    <string name="no_wallpaper">Kein Hintergrundbild</string>
 </resources>

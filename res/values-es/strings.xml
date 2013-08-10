@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 ParanoidAndroid Project
-
-     Licensed under the GNU GPLv2 license
-
-     The text of the license can be found in the LICENSE file
-     or at https://www.gnu.org/licenses/gpl-2.0.txt
--->
-
 <resources>
-
-    <string name="app_name">ParanoidWallpapers</string>
-    <string name="solid_color">Color sólido</string>
-    <string name="pick_color">Seleccione un color</string>
-    <string name="red">Rojo</string>
-    <string name="green">Verde</string>
-    <string name="blue">Azul</string>
-    <string name="purple">Morado</string>
-    <string name="orange">Naranja</string>
-    <string name="white">Blanco</string>
-    <string name="black">Negro</string>
-    <string name="action_apply">Aplicar</string>
-    <string name="applying">Aplicando fondo seleccionado</string>
-
+    <string name="app_name">"Fondos BeanStalk"</string>
+    <string name="set_wallpaper">"Escoger fondo de pantalla"</string>
+    <string name="no_wallpaper">"Sin fondo de pantalla"</string>
 </resources>

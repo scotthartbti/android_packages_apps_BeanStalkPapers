@@ -15,7 +15,6 @@
 -->
 
 <resources>
-    <string name="app_name">BeanStalk Wallpapers</string>
-    <string name="set_wallpaper">Set wallpaper</string>
-    <string name="no_wallpaper">No wallpaper</string>
+    <string-array name="extra_wallpapers" translatable="false">
+    </string-array>
 </resources>

@@ -16,6 +16,9 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_24</item>
+        <item>wallpaper_23</item>
+        <item>wallpaper_22</item>
         <item>wallpaper_0</item>
         <item>wallpaper_21</item>
         <item>wallpaper_1</item>
@@ -41,25 +44,28 @@
 
     <string-array name="info" translatable="false">
         <item>Default</item>
+        <item>Light show</item>
+        <item>Hanging around</item>
+        <item>Original</item>
         <item>Typography</item>
-        <item>Gray Logo</item>
+        <item>Gray logo</item>
         <item>Old Beanstalk</item>
-        <item>Green Tree</item>
-        <item>Cloud View</item>
+        <item>Green tree</item>
+        <item>Cloud view</item>
         <item>Unknown</item>
-        <item>Green Sky</item>
-        <item>Stalk Tips</item>
-        <item>Arcade Style</item>
+        <item>Green sky</item>
+        <item>Stalk tips</item>
+        <item>Arcade style</item>
         <item>Cartoon BeanStalk</item>
         <item>Unknown</item>
         <item>Yellow BeanStalk</item>
-        <item>Bottom View</item>
+        <item>Bottom view</item>
         <item>Beanstalk explosion</item>
-        <item>Design Logo</item>
-        <item>Design Logo 2</item>
-        <item>Design Logo 3</item>
+        <item>Design logo</item>
+        <item>Design logo 2</item>
+        <item>Design logo 3</item>
         <item>B for Beanstalk</item>
-        <item>Beanstalk Green</item>
+        <item>Beanstalk green</item>
         <item>Cartoon Beanstalk</item>
     </string-array>
 </resources>

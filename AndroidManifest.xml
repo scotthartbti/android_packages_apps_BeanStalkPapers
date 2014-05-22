@@ -3,6 +3,7 @@
       package="com.beanstalk.beanstalkpapers">
 
       <uses-permission android:name="android.permission.SET_WALLPAPER" />
+      <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
 
     <application android:label="@string/app_name" android:icon="@drawable/beanstalk_icon">
         <activity

@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string-array name="wallpapers" translatable="false">
+    <string-array name="partner_wallpapers" translatable="false">
         <item>wallpaper_24</item>
         <item>wallpaper_23</item>
         <item>wallpaper_22</item>

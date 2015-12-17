@@ -2,24 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.beanstalk.beanstalkpapers">
 
-      <uses-permission android:name="android.permission.SET_WALLPAPER" />
-      <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
 
     <application android:label="@string/app_name" android:icon="@drawable/beanstalk_icon">
-        <activity
-            android:name="wallpaper"
-            android:label="@string/app_name"
-            android:icon="@drawable/beanstalk_icon"
-            android:screenOrientation="nosensor"
-            android:finishOnCloseSystemDialogs="true">
-            <intent-filter>
-                <action android:name="android.intent.action.SET_WALLPAPER" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name="NoWallpaper"
+	<activity
+            android:name=".NoWallpaper"
             android:label="@string/no_wallpaper"
             android:icon="@drawable/nowallpaper_icon" >
             <intent-filter>
@@ -27,6 +14,12 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <receiver android:name=".PartnerWallpapers">
+            <intent-filter>
+                <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
+            </intent-filter>
+        </receiver>
 
     </application>
 
